@@ -1,0 +1,22 @@
+body {
+    padding: 150px;
+    background-color: rgb(68, 24, 24);
+    color: rgb(236, 221, 221);
+    font-size: 25px;
+    margin: 15px;
+    margin-top: 60px;  
+    margin-left: 370px; 
+ }
+ .dark-mode {
+         background-color: black;
+         color: white;
+ }
+ .light-mode {
+         background-color: white;
+         color: black;
+ }
+ .button {
+         color: rgb(38, 14, 172);
+ }
+ 
+ 
